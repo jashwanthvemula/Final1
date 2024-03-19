@@ -18,9 +18,13 @@ The Scheduling Application Backend APIs aim to provide a set of endpoints for ma
 Fields Need to Change are: - 
 
 AUTH_TOKEN = 
+
 YOUR_CLIENT_ID = 
+
 CLIENT_SECRETs = 
+
 REDIRECT_URIs = "http://localhost:3000/authenticated"   //redirect url should remain same 
+
 calendarId = 
 
 2.
@@ -34,9 +38,13 @@ calendarId =
 ## API Endpoints : - 
 
 localhost:3000/createevent
+
 localhost:3000/bookslots
+
 localhost:3000/availableslots
+
 localhost:3000/delete
+
 localhost:3000/auth
 
 
